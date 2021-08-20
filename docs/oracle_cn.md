@@ -4,7 +4,7 @@ KSwap Oracle 是一个基于 KSwap Dex 的去中心化的、可以免费使用�
 
 KSwap Oracle 测试网地址：0xaEAaf9bE4F49aFb38801dd6aA43e4Fb324894761
 
-KSwap Oracle 正式网地址：待部署
+KSwap Oracle 正式网地址：0x5d1F23b1564ce7A00C94f9Fa970D9c630369CA72
 
 ## 1. 查询单个代币的价格
 
